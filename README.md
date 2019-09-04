@@ -1,11 +1,17 @@
 # Build An Arduino LCD Game 
 Components Needed for LCD Approach:
-    1.	Arduino Uno
-    2.	16x2 LCD Display
-    3.	Resistor – 220Ω
-    4.	Potentiometer – 10kΩ
-    5.	Tactile Switch/Button
-    6.	Jumper Wires
+
+   1. Arduino Uno
+    
+   2. 16x2 LCD Display
+    
+   3. Resistor – 220Ω
+    
+   4. Potentiometer – 10kΩ
+    
+   5. Tactile Switch/Button
+    
+   6. Jumper Wires
 
 Components Needed for OLED Approach:
     1.	Arduino Uno
