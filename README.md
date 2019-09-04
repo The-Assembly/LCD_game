@@ -14,16 +14,22 @@ Components Needed for LCD Approach:
    6. Jumper Wires
 
 Components Needed for OLED Approach:
-    1.	Arduino Uno
-    2.	OLED Display
-    3.	Three Resistors – 10kΩ
-    4.	Potentiometer – 10kΩ
-    5.	Three Tactile Switch/Button
-    6.	Jumper Wires
+
+   1. Arduino Uno
+    
+   2. OLED Display
+    
+   3. Three Resistors – 10kΩ
+    
+   4. Potentiometer – 10kΩ
+    
+   5. Three Tactile Switch/Button
+    
+   6. Jumper Wires
 
 Software Used for both approaches:
 
-    •	Arduino software
+   •	Arduino software
 
 Library Used for LCD Approach:
     
